@@ -20,21 +20,21 @@ tests_requires = [
     "treq~=17.0",
     "freezegun~=0.3.0",
     "nbsphinx>=0.3",
-    "matplotlib~=2.0",
+    "matplotlib~=3.0",
     "responses~=0.9.0",
     "httpretty~=0.9.0",
 ]
 
 install_requires = [
     "jsonpickle~=1.0",
-    "redis~=2.0",
+    "redis~=3.0",
     "fakeredis~=0.10.0",
     "pymongo~=3.7",
     "numpy~=1.16",
     "scipy~=1.2",
     "typing~=3.0",
     "requests~=2.20",
-    "tensorflow~=1.12.0",
+    "tensorflow~=1.13.1",
     "apscheduler~=3.0",
     "tqdm~=4.0",
     "networkx~=2.2",
@@ -53,8 +53,8 @@ install_requires = [
     "rocketchat_API~=0.6.0",
     "colorhash~=1.0",
     "pika~=0.12.0",
-    "jsonschema~=2.6",
-    "packaging~=18.0",
+    "jsonschema~=3.0.1",
+    "packaging~=19.0",
     "gevent~=1.4",
     "pytz~=2018.9",
     "python-dateutil~=2.7",
@@ -66,8 +66,8 @@ install_requires = [
     "flask-jwt-simple~=0.0.3",
     "python-socketio~=3.0",
     "pydot~=1.4",
-    "keras-applications==1.0.6",
-    "keras-preprocessing==1.0.5"
+    "keras-applications==1.0.7",
+    "keras-preprocessing==1.0.9"
 ]
 
 extras_requires = {

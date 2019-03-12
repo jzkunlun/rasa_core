@@ -1,13 +1,13 @@
 ## Setup py requirements
 jsonpickle==1.0.0
-redis==2.10.6
+redis==3.1.0
 fakeredis==0.10.3
 numpy==1.16.0
 scipy==1.2.0
 typing==3.6.6
 ruamel.yaml==0.15.85
 requests==2.21.0
-tensorflow==1.12.0
+tensorflow==1.13.1
 apscheduler==3.5.3
 tqdm==4.29.1
 networkx==2.2
@@ -25,7 +25,7 @@ webexteamssdk==1.1.1
 mattermostwrapper==2.1
 colorhash==1.0.2
 pika==0.12.0
-jsonschema==2.6.0
+jsonschema==3.0.1
 packaging==18.0
 gevent==1.4.0
 pytz==2018.9
